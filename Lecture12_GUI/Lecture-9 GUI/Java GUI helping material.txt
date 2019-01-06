@@ -1,0 +1,12 @@
+Java Swing example codes:
+------------------------
+http://examples.oreilly.com/jswing2/code/
+
+
+Layout Manager:
+----------------
+http://www.javatpoint.com/java-layout-manager
+
+Applets:
+--------
+http://www.javatpoint.com/java-applet
